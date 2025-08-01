@@ -4,7 +4,7 @@ A full-stack Job Portal where users can search and apply for jobs, while employe
 
 ## 🌐 Live Demo
 
-[Live App URL]()
+[Live App URL](https://hireverse-ydxc.onrender.com/)
 
 ## 🚀 Features
 
